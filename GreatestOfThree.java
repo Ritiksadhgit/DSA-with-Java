@@ -1,10 +1,6 @@
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
-public class p5 {
+public class GreatestOfThree {
     public static void main(String args[] ) throws Exception {
         Scanner sc= new Scanner(System.in);
                 int num1=sc.nextInt();

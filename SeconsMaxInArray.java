@@ -1,5 +1,5 @@
 import java.util.*;
-public class p1 {
+public class SeconsMaxInArray {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int size=sc.nextInt();
